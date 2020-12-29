@@ -11,7 +11,7 @@
 		<table>
 			<tr>
 				<td>Company Name</td>
-				<td><input type="text" name="productname" value="{{old('productname')}}"></td>
+				<td><input type="text" name="companyname" value="{{old('companyname')}}"></td>
 			</tr>
 			<tr>
 				<td>Job Title</td>

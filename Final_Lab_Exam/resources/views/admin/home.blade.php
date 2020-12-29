@@ -6,7 +6,7 @@
 <body>
 	<h1>Admin Home</h1>
 	<a href="{{route('admin.home')}}"> Home</a> | 
-	<a href="{{route('admin.createemployee')}}"> Registetion Form | 
+	<a href="{{route('admin.createemployee')}}"> Registration Form | 
 	<a href="{{route('admin.employeelist')}}"> View All Employee | 
 	<a href="/logout"> logout
 </body>

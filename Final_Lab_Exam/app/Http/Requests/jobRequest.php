@@ -24,7 +24,7 @@ class jobRequest extends FormRequest
     public function rules()
     {
         return [
-            'comanyname' => 'required|min:5',
+            'companyname' => 'required|min:5',
             'jobtitle' => 'required',
             'joblocation' => 'required',
             'salary' => 'required'
